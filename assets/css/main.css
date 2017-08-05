@@ -141,3 +141,22 @@ header p {
     cursor: pointer;
     border-radius: 5px;
 }
+
+/*Footer*/
+footer {
+	height: 40px;
+	background-color: #1919ff;
+	margin: 0;
+	padding: 10px;
+}
+
+footer p {
+	display: inline-block;
+	color: white;
+}
+
+footer a {
+	color: yellow;
+	text-decoration: none;
+	isplay: inline-block;
+}
