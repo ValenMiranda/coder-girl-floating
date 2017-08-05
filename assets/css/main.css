@@ -28,3 +28,41 @@ header div {
 header p {
 	padding-left: 50px;
 }
+
+/*Section de inscripcion*/
+.inscribirse {
+	background-image: url("../img/home.jpg");
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.contenido-insc {
+	width: 70%;
+	margin: 0 auto;
+	padding: 220px 0;
+}
+
+.inscribirse-chicas {
+	margin: 0;
+	text-transform: uppercase;
+	color: whitesmoke;
+	font-size: 40px;
+}
+
+.inscribirse-listas {
+	display: none;
+	margin: 0;
+	text-transform: uppercase;
+	color: whitesmoke;
+	font-size: 40px;
+}
+
+.display-none {
+	display: none;
+}
+
+.display-yes {
+	display: inherit;
+}
